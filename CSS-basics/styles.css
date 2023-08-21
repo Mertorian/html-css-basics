@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: blanchedalmond;
+  font-size: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+header {
+  background-color: chocolate;
+  border: 4px dashed blanchedalmond;
+  border-radius: 12px;
+}
+div {
+  width: 250px;
+  height: 250px;
+  background-color: blueviolet;
+  border: 6px solid black;
+  padding: 10px;
+  margin: 10px;
+}
