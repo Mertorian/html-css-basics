@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  position: fixed;
+}
+
+.phone-front {
+  position: fixed;
+  right: 700px;
+  bottom: 125px;
+}
